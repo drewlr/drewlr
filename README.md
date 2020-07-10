@@ -1,8 +1,9 @@
 ### Hi there 👋
+Something about me:
 
 - 🔭 I’m currently working on [remo.ai](http://remo.ai)
 - 🌱 I’m currently learning PyTorch and about startups
-- 👯 I’m looking to collaborate on Computer Vision datasets projects
+- 👯 I’m looking to collaborate on Computer Vision projects
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: dnd player since 20y and counting 
 
