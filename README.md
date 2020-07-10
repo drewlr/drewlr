@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on remo.ai
+- 🌱 I’m currently learning PyTorch
+- 👯 I’m looking to collaborate on Computer Vision datasets projects
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: dnd player since 20y and counting 
+
+
 <!--
 **drewlr/drewlr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
