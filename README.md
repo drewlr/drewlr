@@ -1,5 +1,5 @@
 ### Hi there 👋
-Something about me:
+Some things about me:
 
 - 🔭 I’m currently working on [remo.ai](http://remo.ai)
 - 🌱 I’m currently learning PyTorch and about startups
