@@ -5,7 +5,7 @@ Some things about me:
 - 🌱 I’m currently learning PyTorch, MLOps and about startups
 - 👯 I’m looking to collaborate on Computer Vision projects
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: dnd player since 20y and counting 
+- ⚡ Fun fact: dnd player since 20y+ and counting 
 
 
 <!--
