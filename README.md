@@ -1,9 +1,9 @@
 ### Hey there 👋
 Some things about me:
 
-- 🔭 I’m currently working on [remo.ai](http://remo.ai)
+- 🔭 I’m currently working at [TypeForm](https://www.typeform.com/)
 - 🌱 I’m currently learning PyTorch, MLOps and about startups
-- 👯 I’m looking to collaborate on Computer Vision projects
+- 👯 I’m looking to collaborate on Games and Game-ML related projects
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: dnd player since 20y+ and counting 
 
