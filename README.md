@@ -1,11 +1,11 @@
 ### Hey there 👋
 Some things about me:
 
-- 🔭 I’m currently working at [TypeForm](https://www.typeform.com/)
-- 🌱 I’m currently learning PyTorch, MLOps and about startups
-- 👯 I’m looking to collaborate on Games and Game-ML related projects
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: dnd player since 20y+ and counting 
+- 🔭 I’m currently working in Data Science [TypeForm](https://www.typeform.com/)
+- 🌱 Together with an amazing team, I built [Remo](https://github.com/rediscovery-io/remo-python) - a software to manage data for Computer Vision
+- ⚡ Fun fact: I'm designing a board game! I'm also a DnD player since 20y+ and counting 
+- 👯 I’m looking to collaborate on board games and Game + Machine Learning projects
 
 
 <!--
