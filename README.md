@@ -2,8 +2,8 @@
 Some things about me:
 
 - 😄 Pronouns: he/him
-- 🔭 I’m currently working in Data Science [TypeForm](https://www.typeform.com/)
-- 🌱 Together with an amazing team, I built [Remo](https://github.com/rediscovery-io/remo-python) - a software to manage data for Computer Vision
+- 🔭 I’m currently working in Data Science @ [TypeForm](https://www.typeform.com/)
+- 🌱 Together with an amazing team, I built [Remo](https://github.com/rediscovery-io/remo-python) - a locally installable webapp to manage data for Computer Vision
 - ⚡ Fun fact: I'm designing a board game! I'm also a DnD player since 20y+ and counting 
 - 👯 I’m looking to collaborate on board games and Game + Machine Learning projects
 
